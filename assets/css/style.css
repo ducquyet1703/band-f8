@@ -197,7 +197,7 @@ html {
    position: relative;
    margin-top: 46.5px;
    padding-top: 50%;
-   background: url('./assets/img/silder/chicago.jpg') top center / cover no-repeat;
+   background: url('https://ducquyet1703.github.io/band-f8/assets/img/silder/chicago.jpg') top center / cover no-repeat;
 }
 
 #slider .text-content {
